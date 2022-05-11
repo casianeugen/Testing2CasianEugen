@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testing>
+    <links>
+        <link>
+            <url>https://www.google.com/search?q=testing&amp;source=hp&amp;ei=ZHp7Ys2EGdCsaeewp2g&amp;iflsig=AJiK0e8AAAAAYnuIdID-jJWvUPkIUEVOGkH3wH0QzdS9</url>
+            <pageName>testing - Căutare Google</pageName>
+            <wordCount>237</wordCount>
+        </link>
+        <link>
+            <url>https://www.covid.gov/tests</url>
+            <pageName>COVID.gov/tests - Free at-home COVID-19 tests</pageName>
+            <wordCount>8</wordCount>
+        </link>
+        <link>
+            <url>https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html</url>
+            <pageName>Community-Based Testing Sites for COVID-19 | HHS.gov</pageName>
+            <wordCount>439</wordCount>
+        </link>
+        <link>
+            <url>https://www.speedtest.net/</url>
+            <pageName>Speedtest by Ookla - The Global Broadband Speed Test</pageName>
+            <wordCount>2</wordCount>
+        </link>
+        <link>
+            <url>https://www.nhs.uk/conditions/coronavirus-covid-19/testing/</url>
+            <pageName>Testing for coronavirus (COVID-19) - NHS</pageName>
+            <wordCount>24</wordCount>
+        </link>
+        <link>
+            <url>https://www.ibm.com/topics/software-testing</url>
+            <pageName>What is Software Testing and How Does it Work? | IBM</pageName>
+            <wordCount>112</wordCount>
+        </link>
+        <link>
+            <url>https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing</url>
+            <pageName>The different types of testing in software | Atlassian</pageName>
+            <wordCount>238</wordCount>
+        </link>
+        <link>
+            <url>https://www.cdc.gov/coronavirus/2019-ncov/testing/index.html</url>
+            <pageName>Testing for COVID-19</pageName>
+            <wordCount>134</wordCount>
+        </link>
+        <link>
+            <url>https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html</url>
+            <pageName>COVID-19 Testing: What You Need to Know | CDC</pageName>
+            <wordCount>168</wordCount>
+        </link>
+        <link>
+            <url>https://en.wikipedia.org/wiki/Software_testing</url>
+            <pageName>Software testing - Wikipedia</pageName>
+            <wordCount>1196</wordCount>
+        </link>
+    </links>
+</testing>
