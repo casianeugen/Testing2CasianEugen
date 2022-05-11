@@ -43,12 +43,12 @@ public class ParkingCalculatorTest {
         data[2][3] = "AM";
         data[2][4] = "6/5/2022";
         data[2][5] = "18:00";
-        data[2][6] = "AM";
+        data[2][6] = "PM";
 
         data[3][0] = "Valet Parking";
         data[3][1] = "2/14/2022";
         data[3][2] = "11:00";
-        data[3][3] = "AM";
+        data[3][3] = "PM";
         data[3][4] = "6/5/2022";
         data[3][5] = "18:00";
         data[3][6] = "AM";
