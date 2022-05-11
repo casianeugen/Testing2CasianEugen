@@ -30,7 +30,7 @@ public class ParkingCalculatorTest {
         data[0][6] = "AM";
 
         data[1][0] = "Short-Term Parking";
-        data[1][1] = "5/14/2022";
+        data[1][1] = "5/14/2023";
         data[1][2] = "8:00";
         data[1][3] = "AM";
         data[1][4] = "5/20/2022";
@@ -79,6 +79,8 @@ public class ParkingCalculatorTest {
 
         WebElement button = driver.findElement(By.name("Submit"));
         button.click();
+
+        WebElement result = driver.findElement(By.xpath("/html/body/form/table/tbody/tr[4]/td[2]/span[1]/b"));
 
     }
     @AfterTest
